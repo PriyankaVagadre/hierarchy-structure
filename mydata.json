@@ -1,0 +1,127 @@
+{
+    "name": "Priyanka",
+    "parent": "null",
+    "children": [
+
+        {
+            "name":"Earlier",
+            "children":[
+                {
+                    "name":"Acadmics",
+                    "children":[
+                        {
+                            "name":"Secondary School Certificate: 78.6%"
+                        },
+                        {
+                            "name":"Senior School Certificate : 78.2%"
+                        },
+                        {
+                            "name":"Bachelor of Engineering : 80.3%"
+                        }
+                    ]
+                },
+                {
+                    "name": "Extra Curricular",
+                    "children":[
+                        {
+                            "name":"Event Coordinator at Technosaga 2014."
+                        },
+                        {
+                            "name":"Participation in Extempore at Techno saga 2K12"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name":"Current",
+            "children":[
+                {
+                    "name":"Accomplishments",
+                    "children":[
+                        {
+                            "name":"Status",
+                            "children":[
+                                {
+                                    "name":"Job"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Certifications",
+                            "children":[
+                                {
+                                    "name":"Microsoft Certified Professional (MCP)"
+                                },
+                                {
+                                    "name":"Certificate of Excellence on c and cpp"
+                                },
+                                {
+                                    "name":"2nd Rank in Sixth Sense Technology Workshop"
+                                },
+                                {
+                                    "name":"Award of Achievement from LMS Solutions"
+                                },
+                                {
+                                    "name":"Certificate of participation at Technovate"
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name":"Carrier Objective",
+            "children":[
+                {
+                    "name":"Node-1",
+                    "children":[
+                        {
+                            "name":" Web Developer"
+                        }
+                    ]
+                },
+                {
+                    "name":"Node-2",
+                    "children":[
+                        {
+                            "name":"Senior Developer"
+                        }
+                       ]
+
+                },
+                {
+                    "name":"Node-3",
+                    "children":[
+                        {
+                            "name":"project Lead"
+                        }
+                    ]
+
+                },
+                {
+                    "name":"Node-4",
+                    "children":[
+                        {
+                            "name":"Project Manager"
+                        }
+                    ]
+                },
+                {
+                    "name":"Node-5",
+                            "children":[
+                {
+                    "name":"senior project manager/ vp"
+                }]
+
+                }
+            ]
+        }
+
+
+
+    ]}
+
